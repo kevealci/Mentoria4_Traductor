@@ -1,0 +1,6 @@
+perro,dog
+gato,cat
+casa,house
+ciudad,city
+telefono,phone
+silla,chair
